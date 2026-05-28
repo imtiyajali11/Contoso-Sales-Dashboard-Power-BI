@@ -86,3 +86,6 @@ Try these in the Q&A visual:
 - Q&A in Power BI depends on current file settings and may need to be enabled locally after opening the report.
 
 # Contoso-Sales-Dashboard-Power-BI
+
+###Author 
+Imtiyaj Ali Shaikh
