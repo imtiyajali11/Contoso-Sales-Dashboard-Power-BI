@@ -87,5 +87,5 @@ Try these in the Q&A visual:
 
 # Contoso-Sales-Dashboard-Power-BI
 
-###Author 
+### Author 
 Imtiyaj Ali Shaikh
